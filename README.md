@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O **AI Synergyt** é uma aplicação desenvolvida em Python utilizando Streamlit, projetada para ajudar os usuários a definir, avaliar e resolver problemas de aprendizado de máquina. Combinando múltiplos agentes de IA especializados, a ferramenta guia desde a definição do problema até a geração de código inicial para projetos de aprendizado de máquina.
+O **AI Synergy** é uma aplicação desenvolvida em Python utilizando Streamlit, projetada para ajudar os usuários a definir, avaliar e resolver problemas de aprendizado de máquina. Combinando múltiplos agentes de IA especializados, a ferramenta guia desde a definição do problema até a geração de código inicial para projetos de aprendizado de máquina.
 
 ## Funcionalidades
 
